@@ -20,7 +20,6 @@ graph TD
     G[Modelagem]
     H[Criação de modelos]
     H1[Random Forest]
-    H2[Logistic Regression]
     H3[Support Vector Machine]
     H4[Gradient Boosting]
     H5[Neural Network]
@@ -59,7 +58,6 @@ graph TD
     F --> G --> I
     G --> H --> I
     H --> H1 --> I
-    H --> H2 --> I
     H --> H3 --> I
     H --> H4 --> I
     H --> H5 --> I
